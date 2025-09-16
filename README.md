@@ -1,7 +1,7 @@
-# Repository for ``Diverse and specialized connectivity facilitates multimodal roles in annotated connectomes'' by Moon & Ahnert. 
+# Repository for ``Diverse and specialized connectivity facilitates multimodal roles in annotated connectomes'' by Moon, Ripoll-Sanchez, Vertes, Schafer & Ahnert. 
 
 ## About:
-- This is the repo accompanying the preprint Moon et al., 2025, containing all scripts needed to generate the results. 
+- This is the repo accompanying the preprint [Moon et al., 2025](https://doi.org/10.1101/2025.03.19.644231), containing all scripts needed to generate the results. 
 
 ## Installation:
 - Run ```pip install requirements.txt``` in your ```python``` environment of choice.
